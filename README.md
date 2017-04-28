@@ -12,8 +12,6 @@ chmod +x start.sh
 
 ./start.sh install
 
-chmod +x tg
-
 ```
 set Sudo user Id in line 8 Alarm.lua and run:
 ```sh
