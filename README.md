@@ -4,7 +4,7 @@ Telegram Online Status Sender...
 # How To Install 
 
 ```sh
-git clone https://github.com/PG-Team/Alarm
+git clone https://github.com/PlusTM/Alarm
 
 cd Alarm
 
